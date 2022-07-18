@@ -1,0 +1,3 @@
+..\..\..\file2byteslice -input jesus_ico.png -output jesus_ico.go -package images -var JesusIcoPng
+
+..\..\..\file2byteslice -input paraiso.png -output paraiso.go -package images -var ParaisoPng
